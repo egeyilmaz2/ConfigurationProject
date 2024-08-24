@@ -1,0 +1,11 @@
+D:\SecilStore\assigment\ConfigurationProject\ConfigurationLibrary\bin\Debug\net8.0\ConfigurationLibrary.deps.json
+D:\SecilStore\assigment\ConfigurationProject\ConfigurationLibrary\bin\Debug\net8.0\ConfigurationLibrary.dll
+D:\SecilStore\assigment\ConfigurationProject\ConfigurationLibrary\bin\Debug\net8.0\ConfigurationLibrary.pdb
+D:\SecilStore\assigment\ConfigurationProject\ConfigurationLibrary\obj\Debug\net8.0\ConfigurationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\SecilStore\assigment\ConfigurationProject\ConfigurationLibrary\obj\Debug\net8.0\ConfigurationLibrary.AssemblyInfoInputs.cache
+D:\SecilStore\assigment\ConfigurationProject\ConfigurationLibrary\obj\Debug\net8.0\ConfigurationLibrary.AssemblyInfo.cs
+D:\SecilStore\assigment\ConfigurationProject\ConfigurationLibrary\obj\Debug\net8.0\ConfigurationLibrary.csproj.CoreCompileInputs.cache
+D:\SecilStore\assigment\ConfigurationProject\ConfigurationLibrary\obj\Debug\net8.0\ConfigurationLibrary.dll
+D:\SecilStore\assigment\ConfigurationProject\ConfigurationLibrary\obj\Debug\net8.0\refint\ConfigurationLibrary.dll
+D:\SecilStore\assigment\ConfigurationProject\ConfigurationLibrary\obj\Debug\net8.0\ConfigurationLibrary.pdb
+D:\SecilStore\assigment\ConfigurationProject\ConfigurationLibrary\obj\Debug\net8.0\ref\ConfigurationLibrary.dll

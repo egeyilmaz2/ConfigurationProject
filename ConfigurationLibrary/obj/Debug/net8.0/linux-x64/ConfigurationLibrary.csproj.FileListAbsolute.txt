@@ -1,0 +1,5 @@
+D:\SecilStore\assigment\ConfigurationProject\ConfigurationLibrary\obj\Debug\net8.0\linux-x64\ConfigurationLibrary.csproj.AssemblyReference.cache
+D:\SecilStore\assigment\ConfigurationProject\ConfigurationLibrary\obj\Debug\net8.0\linux-x64\ConfigurationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\SecilStore\assigment\ConfigurationProject\ConfigurationLibrary\obj\Debug\net8.0\linux-x64\ConfigurationLibrary.AssemblyInfoInputs.cache
+D:\SecilStore\assigment\ConfigurationProject\ConfigurationLibrary\obj\Debug\net8.0\linux-x64\ConfigurationLibrary.AssemblyInfo.cs
+D:\SecilStore\assigment\ConfigurationProject\ConfigurationLibrary\obj\Debug\net8.0\linux-x64\ConfigurationLibrary.csproj.CoreCompileInputs.cache
